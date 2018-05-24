@@ -1,0 +1,6 @@
+C:\Users\nasty\Downloads\SimpleLexer\bin\Debug\SimpleLexer.exe
+C:\Users\nasty\Downloads\SimpleLexer\bin\Debug\SimpleLexer.pdb
+C:\Users\nasty\Downloads\SimpleLexer\obj\Debug\SimpleLexer.csprojResolveAssemblyReference.cache
+C:\Users\nasty\Downloads\SimpleLexer\obj\Debug\SimpleLexer.csproj.CoreCompileInputs.cache
+C:\Users\nasty\Downloads\SimpleLexer\obj\Debug\SimpleLexer.exe
+C:\Users\nasty\Downloads\SimpleLexer\obj\Debug\SimpleLexer.pdb
