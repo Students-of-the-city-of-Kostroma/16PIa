@@ -1,0 +1,16 @@
+C:\Users\student\Desktop\Новая папка (2)\bin\Debug\SimpleLexer.exe
+C:\Users\student\Desktop\Новая папка (2)\bin\Debug\SimpleLexer.pdb
+C:\Users\student\Desktop\Новая папка (2)\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\student\Desktop\Новая папка (2)\obj\Debug\SimpleLexer.exe
+C:\Users\student\Desktop\Новая папка (2)\obj\Debug\SimpleLexer.pdb
+F:\Разработка ПО\Новая папка (2)\obj\Debug\SimpleLexer.exe
+F:\Разработка ПО\Новая папка (2)\obj\Debug\SimpleLexer.pdb
+F:\Разработка ПО\Новая папка (2)\bin\Debug\SimpleLexer.exe
+F:\Разработка ПО\Новая папка (2)\bin\Debug\SimpleLexer.pdb
+F:\Разработка ПО\Новая папка (2)\obj\Debug\ResolveAssemblyReference.cache
+D:\Разработка ПО\Новая папка (2)\bin\Debug\SimpleLexer.pdb
+D:\Разработка ПО\Новая папка (2)\obj\Debug\SimpleLexer.csproj.CoreCompileInputs.cache
+D:\Разработка ПО\Новая папка (2)\obj\Debug\SimpleLexer.pdb
+D:\Разработка ПО\Новая папка (2)\bin\Debug\SimpleLexer.dll
+D:\Разработка ПО\Новая папка (2)\obj\Debug\SimpleLexer.dll
+D:\Разработка ПО\Новая папка (2)\obj\Debug\SimpleLexer.csprojResolveAssemblyReference.cache

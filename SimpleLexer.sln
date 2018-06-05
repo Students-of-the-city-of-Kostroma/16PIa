@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleLexer", "SimpleLexer.csproj", "{52D1942C-521C-45D1-8C92-2CC965F30724}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{60B2F4DC-839C-4DFB-BCA2-DBC4F8999344}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		SimpleLexer.vsmdi = SimpleLexer.vsmdi
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{B66F924D-D631-4F4D-8270-A0B27C8D3298}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormLexer", "WindowsFormsApp2\FormLexer.csproj", "{106485A2-EAB9-45DA-B7D1-572C4325054B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52D1942C-521C-45D1-8C92-2CC965F30724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52D1942C-521C-45D1-8C92-2CC965F30724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52D1942C-521C-45D1-8C92-2CC965F30724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52D1942C-521C-45D1-8C92-2CC965F30724}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B66F924D-D631-4F4D-8270-A0B27C8D3298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B66F924D-D631-4F4D-8270-A0B27C8D3298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B66F924D-D631-4F4D-8270-A0B27C8D3298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B66F924D-D631-4F4D-8270-A0B27C8D3298}.Release|Any CPU.Build.0 = Release|Any CPU
+		{106485A2-EAB9-45DA-B7D1-572C4325054B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{106485A2-EAB9-45DA-B7D1-572C4325054B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{106485A2-EAB9-45DA-B7D1-572C4325054B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{106485A2-EAB9-45DA-B7D1-572C4325054B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BFD7E77-4FEC-4C14-BA2E-7AFD6CBD69A0}
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = SimpleLexer.vsmdi
+	EndGlobalSection
+EndGlobal

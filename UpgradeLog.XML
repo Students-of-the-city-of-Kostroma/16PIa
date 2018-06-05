@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SimpleLexer">
+</Property><Property Name="Файл решения" Value="C:\Users\student\Desktop\Новая папка (2)\SimpleLexer.sln">
+</Property><Property Name="Файл параметров пользователя" Value="C:\Users\student\Desktop\Новая папка (2)\SimpleLexer.suo">
+</Property><Property Name="Date" Value="11 мая 2018 г.">
+</Property><Property Name="Time" Value="9:05">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SimpleLexer.sln" Description="Успешно создана резервная копия файла C:\Users\student\Desktop\Новая папка (2)\Backup\SimpleLexer.sln">
+</Event><Event ErrorLevel="0" Project="" Source="SimpleLexer.suo" Description="Успешно создана резервная копия файла C:\Users\student\Desktop\Новая папка (2)\Backup\SimpleLexer.suo">
+</Event><Event ErrorLevel="0" Project="SimpleLexer" Source="SimpleLexer.csproj" Description="Успешно создана резервная копия файла проекта: C:\Users\student\Desktop\Новая папка (2)\Backup\SimpleLexer.csproj">
+</Event><Event ErrorLevel="0" Project="SimpleLexer" Source="ILexer.cs" Description="Успешно создана резервная копия файла C:\Users\student\Desktop\Новая папка (2)\Backup\ILexer.cs">
+</Event><Event ErrorLevel="0" Project="SimpleLexer" Source="Lexer.cs" Description="Успешно создана резервная копия файла C:\Users\student\Desktop\Новая папка (2)\Backup\Lexer.cs">
+</Event><Event ErrorLevel="0" Project="SimpleLexer" Source="Program.cs" Description="Успешно создана резервная копия файла C:\Users\student\Desktop\Новая папка (2)\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="SimpleLexer" Source="Properties\AssemblyInfo.cs" Description="Успешно создана резервная копия файла C:\Users\student\Desktop\Новая папка (2)\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SimpleLexer" Source="Token.cs" Description="Успешно создана резервная копия файла C:\Users\student\Desktop\Новая папка (2)\Backup\Token.cs">
+</Event><Event ErrorLevel="0" Project="SimpleLexer" Source="TokenDefinition.cs" Description="Успешно создана резервная копия файла C:\Users\student\Desktop\Новая папка (2)\Backup\TokenDefinition.cs">
+</Event><Event ErrorLevel="0" Project="SimpleLexer" Source="TokenPosition.cs" Description="Успешно создана резервная копия файла C:\Users\student\Desktop\Новая папка (2)\Backup\TokenPosition.cs">
+</Event><Event ErrorLevel="0" Project="SimpleLexer" Source="SimpleLexer.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="SimpleLexer" Source="SimpleLexer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SimpleLexer.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="SimpleLexer.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SimpleLexer" Source="SimpleLexer.csproj" Description="Сканирование завершено: обновление для файлов проекта не требуется.">
+</Event></UpgradeLog>

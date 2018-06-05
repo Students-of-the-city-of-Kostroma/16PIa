@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="f1e0b465-fc2d-4d8f-9026-23a1ee362f11" name="student@E327-06 2018-05-11 09:57:30" runUser="KSTUEDU\student" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Локальные" id="63deaa77-cd84-40ba-845a-009eca169d5d">
+    <Description>Это - параметры по умолчанию для локального тестового запуска.</Description>
+    <Deployment enabled="false" runDeploymentRoot="student_E327-06 2018-05-11 09_57_30">
+      <DeploymentItem filename="C:\Users\student\Desktop\Новая папка (2)\bin\Debug\SimpleLexer.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2018-05-11T09:57:30.8819233+03:00" queuing="2018-05-11T09:57:34.3213593+03:00" start="2018-05-11T09:57:34.4294673+03:00" finish="2018-05-11T09:57:35.3323693+03:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="c:\users\student\desktop\lexertest\bin\debug\lexertest.dll" id="d177f7dc-ba60-3f57-db16-8c0391fe8779">
+      <Execution id="bb1ff660-39b4-4138-96c1-386331ba0830" />
+      <TestMethod codeBase="C:/Users/student/Desktop/LexerTest/bin/Debug/LexerTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="LexerTest.TestLexer, LexerTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Отсутствующие в списке результаты" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Все загруженные результаты" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="d177f7dc-ba60-3f57-db16-8c0391fe8779" executionId="bb1ff660-39b4-4138-96c1-386331ba0830" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="bb1ff660-39b4-4138-96c1-386331ba0830" testId="d177f7dc-ba60-3f57-db16-8c0391fe8779" testName="TestMethod1" computerName="E327-06" duration="00:00:00.0486578" startTime="2018-05-11T09:57:34.4705083+03:00" endTime="2018-05-11T09:57:35.2612983+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bb1ff660-39b4-4138-96c1-386331ba0830">
+    </UnitTestResult>
+  </Results>
+</TestRun>
